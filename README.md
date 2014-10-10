@@ -8,3 +8,7 @@ The original idea was pitched by Uncle Tim (We all know who he is) and in true J
 Basically we are going to have the ultimate community website. From the planning, design, coding, all the way through to implementation the entire community will be involved. This acts as both a learning/teaching process and hopefully an **EPIC** website.
 
 More details will get added as we progress through this amazing journey.
+
+## Steps
+
+- [Step 1: Planning](https://github.com/joburgphp/step-1-planning)
